@@ -27,6 +27,9 @@
 *.out
 *.app
 
+# Eclipse/OS files
+.project
+
 *.*~
 client/snapclient
 server/snapserver

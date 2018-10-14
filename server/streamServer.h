@@ -48,7 +48,7 @@ struct StreamServerSettings
 		port(1704),
 		controlPort(1705),
 		codec("flac"),
-		bufferMs(1000),
+		bufferMs(100),
 		sampleFormat("48000:16:2"),
 		streamReadMs(20),
 		sendAudioToMutedClients(false)
